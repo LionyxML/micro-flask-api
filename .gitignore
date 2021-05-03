@@ -1,0 +1,17 @@
+.DS_Store
+
+.flaskenv
+
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+
+*.egg-info/
+
+
